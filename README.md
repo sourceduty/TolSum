@@ -23,3 +23,5 @@ TolSum earns a strong 9 out of 10 for its theoretical innovation and practical a
 [Sourceduty Math](https://chatgpt.com/g/g-67cc981656b8819196c22b67c9fbbb8c-sourceduty-math)
 <br>
 [Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
+<br>
+[Optiation Math](https://github.com/sourceduty/Optimation_Math)
